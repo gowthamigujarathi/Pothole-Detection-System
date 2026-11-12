@@ -118,6 +118,3 @@ output.jpg
 ### Output
 The system detects potholes and marks them using green bounding boxes along with confidence scores, allowing easy visual evaluation of the model's performance.
 
-### Author
-Aryan Kuamr Yadav
-projects.aky@gmail.com
